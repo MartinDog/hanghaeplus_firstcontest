@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanghaeplus_firstcontest/static/css/main.cb10eccd.css",
+    "main.js": "/hanghaeplus_firstcontest/static/js/main.bd88c383.js",
+    "static/js/787.a174f9e5.chunk.js": "/hanghaeplus_firstcontest/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/hanghaeplus_firstcontest/index.html",
+    "main.cb10eccd.css.map": "/hanghaeplus_firstcontest/static/css/main.cb10eccd.css.map",
+    "main.bd88c383.js.map": "/hanghaeplus_firstcontest/static/js/main.bd88c383.js.map",
+    "787.a174f9e5.chunk.js.map": "/hanghaeplus_firstcontest/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb10eccd.css",
+    "static/js/main.bd88c383.js"
+  ]
+}
